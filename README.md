@@ -9,8 +9,8 @@ In my first job as a junior developer I took advantage of what I learned by myse
 ## About Me
 
 - 🛠️ I'm currently working on: Migrating services and webapps to .NET 6 (backend) and to Next.js (frontend).
-- 🌳 I'm currently learning: Typescript and Next.js.
-- 🔥 What I want to learn next: Jest (for frontend tests) and keep improving my CQRS architecture in .NET 6 (backend). Also, I will start a small project to help people to overcome [emetophobia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4253364/#:~:text=A%20disproportionate%20fear%20of%20vomiting,is%20fairly%20difficult%20to%20treat.) and I will translate (multilanguage support) my small MERN [project](https://www.myplanapp.info/).
+- 🌳 I'm currently learning: Solana Blockchain, Ethereum and Solidity, GraphQL, Hasura, Apollo, Prisma, PostgreSQL.
+- 🔥 What I want to learn next: Implement in actual projects all my new knowledge about blockchain. Then, Jest (for frontend tests) and keep improving my CQRS architecture in .NET 6 (backend).
 - 📮 How to reach me: `ronny@ronnydelgado.com` or my [website](https://www.ronnydelgado.com).
 - 😝 Fun fact: in High School I played the guitar 🎸 in a trio... And we made money!
 
