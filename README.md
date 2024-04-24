@@ -43,10 +43,15 @@ In my first job as a junior developer I took advantage of what I learned by myse
 - [EntityFramework](msdn.microsoft.com/en-us/data/ef.aspx)
   - Why? As in Mongoose, EntityFramework (ORM) **abstracts the complexity** of interacting with relational databases. It's powerful and fast. There are providers that allow us to connect to MySQL, PostgreSQL, Oracle and even local files like Access and Excel.
 
+## These are my most used languages
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronnythedev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
+## My contributions stats
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronnythedev&theme=tokyonight" alt="mystreak"/>
+
+## More of my stats
  <img src="https://myreadme.vercel.app/api/embed/ronnythedev?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronnythedev&theme=tokyonight" alt="mystreak"/>
+
 
   
