@@ -1,4 +1,4 @@
-### Hi!! 😃 🌎 
+### Hello!
 
 I'm Ronny. A Software Engineer based in Costa Rica 🇨🇷
 
@@ -8,7 +8,7 @@ In my first job as a junior developer I took advantage of what I learned by myse
 
 ## About Me
 
-- 🛠️ I'm currently working on: Migrating services and webapps to .NET 8 (backend) and to Next.js (frontend).
+- 🛠️ I'm currently working on: Migrating APIs to donet 8 (backend) and to Next.js (frontend).
 - 🌳 I'm currently learning: more about DDD, Clean Architecture using rich-domains. Also A&DS.
 - 🔥 What I want to learn next: more about TDD and frontend testing.
 - 📮 How to reach me: `ronny@ronnydelgado.com` or my [website](https://www.ronnydelgado.com).
