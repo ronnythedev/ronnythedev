@@ -12,7 +12,7 @@ In my first job as a junior developer I took advantage of what I learned by myse
 - 🌳 I'm currently learning: more about DDD, Clean Architecture using rich-domains. Also A&DS.
 - 🔥 What I want to learn next: more about TDD and frontend testing.
 - 📮 How to reach me: `ronny@ronnydelgado.com` or my [website](https://www.ronnydelgado.com).
-- 😝 Fun fact: in High School I played the guitar 🎸 in a trio... And we made money!
+- <a href="https://www.linkedin.com/in/ronnydelgado/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Tools I Like To Use
 - [.NET Core](https://dotnet.microsoft.com/en-us/apps/aspnet)
@@ -31,8 +31,10 @@ In my first job as a junior developer I took advantage of what I learned by myse
   - Why? I started to use JavaScript to alter DOM elements from ASPX: that's pre-jQuery era. I love the flexibility of this language and the richness it gives to the UX. Besides, it's the language used in the most powerlful frontend frameworks. **It's a must nowadays, and it's likely it will remain that way**.
 - [TypeScript](https://www.typescriptlang.org/)
   - Why? **Depending** on the **size of a project**, it will be **necessary to use strong-types** to catch errors before compilation. TypeScript adds this layer over JavaScript.
+- [PostgreSQL](https://www.postgresql.org)
+  - Why? Because it's the world's most advanced open source relational database. **Relational databases (and the normalization they provide to the data)**, have been the proved way of storing for decades in order to support large entreprise-scale projects.
 - [SQL Server](www.microsoft.com/sql-server)
-  - Why? The default no-brainer database when using .NET. **Relational databases (and the normalization they provide to the data)**, have been the proved way of storing for decades in order to support large entreprise-scale projects.
+  - Why? Why not? It's powerful and works smoothly along with dotnet and EF.
 - [MongoDB](https://www.mongodb.com/)
   - Why? **Once again: flexibility**. **When speed is the key**, and relations are not strongly necessary, No-SQL databases is the answer. Working with collections and documents is a fast a reliable way of storing and fetching information.
 - [Mongoose](https://mongoosejs.com/)
