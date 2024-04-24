@@ -1,4 +1,4 @@
-### Hello World!! 😃 🌎 
+### Hi!! 😃 🌎 
 
 I'm Ronny. A Software Engineer based in Costa Rica 🇨🇷
 
@@ -12,7 +12,8 @@ In my first job as a junior developer I took advantage of what I learned by myse
 - 🌳 I'm currently learning: more about DDD, Clean Architecture using rich-domains. Also A&DS.
 - 🔥 What I want to learn next: more about TDD and frontend testing.
 - 📮 How to reach me: `ronny@ronnydelgado.com` or my [website](https://www.ronnydelgado.com).
-- <a href="https://www.linkedin.com/in/ronnydelgado/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+<a href="https://www.linkedin.com/in/ronnydelgado/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Tools I Like To Use
 - [.NET Core](https://dotnet.microsoft.com/en-us/apps/aspnet)
