@@ -15,6 +15,15 @@ In my first job as a junior developer I took advantage of what I learned by myse
 
 <a href="https://www.linkedin.com/in/ronnydelgado/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
+## These are my most used languages
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronnythedev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+## My contributions stats
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronnythedev&theme=tokyonight" alt="mystreak"/>
+
+## More of my stats
+ <img src="https://myreadme.vercel.app/api/embed/ronnythedev?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
+ 
 ## Tools I Like To Use
 - [.NET Core](https://dotnet.microsoft.com/en-us/apps/aspnet)
   - Why? ASP.NET is a powerful framework for developing enterprise-scale large web apps and services backed by Microsoft. It's solid. It's know that before the Core versions it was supported only on Microsoft OS, **but that's not case anymore ヾ(⌐■_■)ノ♪**, now it's cross-platform. It's versatile and really **really** powerful.
@@ -42,16 +51,4 @@ In my first job as a junior developer I took advantage of what I learned by myse
   - Why? Because **simplifies the interaction with MongoDB** through its schemas and standard methods (save, findAndUpdate). This ODM **abstracts the complexity** of interacting with the no-sql database.
 - [EntityFramework](msdn.microsoft.com/en-us/data/ef.aspx)
   - Why? As in Mongoose, EntityFramework (ORM) **abstracts the complexity** of interacting with relational databases. It's powerful and fast. There are providers that allow us to connect to MySQL, PostgreSQL, Oracle and even local files like Access and Excel.
-
-## These are my most used languages
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronnythedev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
-## My contributions stats
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronnythedev&theme=tokyonight" alt="mystreak"/>
-
-## More of my stats
- <img src="https://myreadme.vercel.app/api/embed/ronnythedev?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
-
-
-
   
