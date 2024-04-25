@@ -1,17 +1,19 @@
-### Hello!
+### Hey there!
 
-I'm Ronny. A Software Engineer based in Costa Rica 🇨🇷
+I'm Ronny, a passionate Software Engineer hailing from the vibrant landscape of Costa Rica 🇨🇷.
 
-I've been in the IT industry since '99. I started developing when Internet was not what is now. 
+With over two decades of experience in the IT industry, I've witnessed the evolution of technology firsthand, having embarked on my journey back in '99 when the Internet was still in its nascent stages.
 
-In my first job as a junior developer I took advantage of what I learned by myself during High School with [this](https://www.amazon.com/Microsoft-Visual-Basic-6-0-Programmers/dp/1572318635) book and an English dictionary.
+I vividly recall my humble beginnings as a junior developer, armed with nothing but my determination and a trusty [book](https://www.amazon.com/Microsoft-Visual-Basic-6-0-Programmers/dp/1572318635), alongside the faithful companion of an English dictionary. It was during those formative years, amidst the challenges and triumphs, that I cultivated my love for crafting code and solving problems.
+
+Join me as I continue to traverse the ever-changing landscape of software development, embracing innovation while cherishing the timeless principles that have guided me since the beginning.
 
 ## About Me
 
-- 🛠️ I'm currently working on: Migrating APIs to donet 8 (backend) and to Next.js (frontend).
-- 🌳 I'm currently learning: more about DDD, Clean Architecture using rich-domains. Also A&DS.
-- 🔥 What I want to learn next: more about TDD and frontend testing.
-- 📮 How to reach me: `ronny@ronnydelgado.com` or my [website](https://www.ronnydelgado.com).
+- 🛠️ Currently, I'm immersed in: Migrating APIs to .NET 8 on the backend and embracing Next.js for frontend development.
+- 🌳 I'm delving deeper into: Domain-Driven Design (DDD), Clean Architecture principles focusing on building rich domains along with Modular Monoloith Architecture. Additionally, I'm exploring Algorithms and Data Structures (A&DS).
+- 🔥 Next on my learning agenda: I'm eager to delve further into Test-Driven Development (TDD) and enhancing my skills in frontend testing.
+- 📮 You can reach out to me via email at `ronny@ronnydelgado.com` or through my [website](https://www.ronnydelgado.com).
 
 <a href="https://www.linkedin.com/in/ronnydelgado/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
@@ -25,30 +27,44 @@ In my first job as a junior developer I took advantage of what I learned by myse
  <img src="https://myreadme.vercel.app/api/embed/ronnythedev?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
  
 ## Tools I Like To Use
+
 - [.NET Core](https://dotnet.microsoft.com/en-us/apps/aspnet)
-  - Why? ASP.NET is a powerful framework for developing enterprise-scale large web apps and services backed by Microsoft. It's solid. It's know that before the Core versions it was supported only on Microsoft OS, **but that's not case anymore ヾ(⌐■_■)ノ♪**, now it's cross-platform. It's versatile and really **really** powerful.
-- [Nodejs](https://nodejs.org/en/)
-  - Why? I love JavaScript. With Nodejs I can build backends in JavaScript with the powerful V8 engine. **I like to be flexible and being able to choose the right tool for the right project**. Nodejs gives me flexibility, besides, it uses the same language than in the frontend.
+  - **Why?** ASP.NET is a robust framework for building enterprise-scale web applications and services, now available cross-platform. It's versatile and backed by Microsoft's reliability.
+
+- [Node.js](https://nodejs.org/en/)
+  - **Why?** Leveraging JavaScript with Node.js and its powerful V8 engine enables me to build flexible backends. I appreciate the language consistency between frontend and backend development.
+
 - [Express](https://expressjs.com/)
-  - Why? Expressjs makes even easier the development of Nodejs backends by providing a great set of features. I used mainly **its HTTP utilty methods**.
+  - **Why?** Express simplifies Node.js backend development with its rich feature set, particularly its HTTP utility methods.
+
 - [React](https://reactjs.org)
-  - Why? When I read about its **virtual DOM** I knew I need it. Web apps are **faster** with React, and the code is easier to mantain. It changed the paradigm and makes us bring HTML into JavaScript. Before React, developers like me were used to "inject" JavaScript into HTML code.
+  - **Why?** React's virtual DOM improves web app performance and enhances code maintainability. It revolutionized frontend development by integrating HTML into JavaScript.
+
 - [React Native](https://reactnative.dev/)
-  - Why? If I already know Reacjs... **Why not?** React Native is not easy, but after overcoming the learning curve and the deployment process is mastered, I won't change it when developing **hybrid apps**.
+  - **Why?** Building on my React.js knowledge, React Native allows me to develop hybrid apps efficiently once I've mastered its learning curve and deployment process.
+
 - [Next.js](https://nextjs.org/)
-  - Why? Sometimes we develop projects and after their release we don't have to visit them often. After my 5th or 6th Reactjs project, I found that is very easy to get lost on tracking deprecated packages or upgrading to the latest Reactjs version. When something like this can happen, then it's better to use an **oppinionated framework** to handle the entire ecosystem and versions of packages. In addition, **SSR is a must** in many projects. **Once again: flexibility and knowing the right tools for the project at hand**.
+  - **Why?** Next.js streamlines development by managing package versions and providing server-side rendering (SSR). Its opinionated framework approach ensures project stability and scalability.
+
 - [JavaScript](https://www.javascript.com/)
-  - Why? I started to use JavaScript to alter DOM elements from ASPX: that's pre-jQuery era. I love the flexibility of this language and the richness it gives to the UX. Besides, it's the language used in the most powerlful frontend frameworks. **It's a must nowadays, and it's likely it will remain that way**.
+  - **Why?** JavaScript's flexibility and ubiquity make it indispensable for frontend development, enriching user experience and powering leading frontend frameworks.
+
 - [TypeScript](https://www.typescriptlang.org/)
-  - Why? **Depending** on the **size of a project**, it will be **necessary to use strong-types** to catch errors before compilation. TypeScript adds this layer over JavaScript.
+  - **Why?** Depending on project size, TypeScript's strong typing catches errors before compilation, enhancing code reliability and scalability.
+
 - [PostgreSQL](https://www.postgresql.org)
-  - Why? Because it's the world's most advanced open source relational database. **Relational databases (and the normalization they provide to the data)**, have been the proved way of storing for decades in order to support large entreprise-scale projects.
-- [SQL Server](www.microsoft.com/sql-server)
-  - Why? Why not? It's powerful and works smoothly along with dotnet and EF.
+  - **Why?** As the world's most advanced open-source relational database, PostgreSQL offers robust data normalization crucial for large-scale enterprise projects.
+
+- [SQL Server](https://www.microsoft.com/sql-server)
+  - **Why?** SQL Server seamlessly integrates with .NET and Entity Framework, providing a powerful relational database solution for various applications.
+
 - [MongoDB](https://www.mongodb.com/)
-  - Why? **Once again: flexibility**. **When speed is the key**, and relations are not strongly necessary, No-SQL databases is the answer. Working with collections and documents is a fast a reliable way of storing and fetching information.
+  - **Why?** MongoDB offers flexibility for projects prioritizing speed over strict relationships, utilizing collections and documents for efficient data storage and retrieval.
+
 - [Mongoose](https://mongoosejs.com/)
-  - Why? Because **simplifies the interaction with MongoDB** through its schemas and standard methods (save, findAndUpdate). This ODM **abstracts the complexity** of interacting with the no-sql database.
-- [EntityFramework](msdn.microsoft.com/en-us/data/ef.aspx)
-  - Why? As in Mongoose, EntityFramework (ORM) **abstracts the complexity** of interacting with relational databases. It's powerful and fast. There are providers that allow us to connect to MySQL, PostgreSQL, Oracle and even local files like Access and Excel.
+  - **Why?** Mongoose simplifies MongoDB interaction with schemas and standard methods, abstracting away complexity and enhancing developer productivity.
+
+- [Entity Framework](https://msdn.microsoft.com/en-us/data/ef.aspx)
+  - **Why?** Entity Framework's ORM capabilities streamline interaction with relational databases, supporting multiple database providers and simplifying data access in .NET applications.
+
   
