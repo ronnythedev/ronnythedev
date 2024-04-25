@@ -11,7 +11,7 @@ Join me as I continue to traverse the ever-changing landscape of software develo
 ## About Me
 
 - 🛠️ Currently, I'm immersed in: Migrating APIs to .NET 8 on the backend and embracing Next.js for frontend development.
-- 🌳 I'm delving deeper into: Domain-Driven Design (DDD), Clean Architecture principles focusing on building rich domains along with Modular Monoloith Architecture. Additionally, I'm exploring Algorithms and Data Structures (A&DS).
+- 🌳 I'm delving deeper into: Domain-Driven Design (DDD) and Clean Architecture principles, focusing on building rich domains, while also exploring Modular Monolith Architecture with sufficient flexibility for future migration to Microservices. Additionally, I'm exploring Algorithms and Data Structures (A&DS).
 - 🔥 Next on my learning agenda: I'm eager to delve further into Test-Driven Development (TDD) and enhancing my skills in frontend testing.
 - 📮 You can reach out to me via email at `ronny@ronnydelgado.com` or through my [website](https://www.ronnydelgado.com).
 
