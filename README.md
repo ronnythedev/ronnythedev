@@ -19,12 +19,6 @@ Join me as I continue to traverse the ever-changing landscape of software develo
 
 ## These are my most used languages
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronnythedev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
-## My contributions stats
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronnythedev&theme=tokyonight" alt="mystreak"/>
-
-## More of my stats
- <img src="https://myreadme.vercel.app/api/embed/ronnythedev?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
  
 ## Tools I Like To Use
 
