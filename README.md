@@ -10,7 +10,7 @@ Join me as I continue to traverse the ever-changing landscape of software develo
 
 ## About Me
 
-- 🛠️ Currently, I'm immersed in: Migrating APIs to .NET 8 on the backend and embracing Next.js for frontend development.
+- 🛠️ Currently, I'm immersed in: Migrating APIs to .NET 8/9 on the backend and embracing Next.js for frontend development.
 - 🌳 I'm delving deeper into: Domain-Driven Design (DDD) and Clean Architecture principles, focusing on building rich domains, while also exploring Modular Monolith Architecture with sufficient flexibility for future migration to Microservices. Additionally, I'm exploring Algorithms and Data Structures (A&DS).
 - 🔥 Next on my learning agenda: I'm eager to delve further into Test-Driven Development (TDD) and enhancing my skills in frontend testing.
 - 📮 You can reach out to me via email at `ronny@ronnydelgado.com` or through my [website](https://www.ronnydelgado.com).
@@ -22,8 +22,8 @@ Join me as I continue to traverse the ever-changing landscape of software develo
  
 ## Tools I Like To Use
 
-- [.NET Core](https://dotnet.microsoft.com/en-us/apps/aspnet)
-  - **Why?** ASP.NET is a robust framework for building enterprise-scale web applications and services, now available cross-platform. It's versatile and backed by Microsoft's reliability.
+- [.NET](https://dotnet.microsoft.com/en-us/apps/aspnet)
+  - **Why?** .NET is a robust framework for building enterprise-scale web applications and services, now available cross-platform. It's versatile and backed by Microsoft's reliability.
 
 - [Node.js](https://nodejs.org/en/)
   - **Why?** Leveraging JavaScript with Node.js and its powerful V8 engine enables me to build flexible backends. I appreciate the language consistency between frontend and backend development.
