@@ -13,9 +13,6 @@ Join me as I continue to traverse the ever-changing landscape of software develo
 - 📮 You can reach out to me via email at `ronny@ronnydelgado.com` or through my [website](https://www.ronnydelgado.com).
 
 <a href="https://www.linkedin.com/in/ronnydelgado/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-## These are my most used languages
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronnythedev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
  
 ## Tools I Like To Use
 
