@@ -6,7 +6,7 @@ With over two decades of experience in the IT industry, I've witnessed the evolu
 
 I focus on one thing: **turning ideas into software that actually works.**
 
-I can make software **better, faster, and cheaper** through extreme ownership and the high standards I’ve developed over my career.
+I can make software **better, faster, and cost-effective** through extreme ownership and the high standards I’ve developed over my career.
 
 
 ## About Me
